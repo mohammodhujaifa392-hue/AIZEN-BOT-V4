@@ -1,11 +1,128 @@
-# Backup Account #2 - Paste your second Facebook account credentials here
-# This account will be used if account.txt fails (suspended, locked, etc.)
-#
-# Format options:
-# 1. Cookies (JSON format): [{"key":"c_user","value":"123456","domain":"facebook.com"}]
-# 2. Cookies (string format): c_user=123456; xs=abc123
-# 3. Token: EAAAA...
-# 4. Email/Password: email@example.com|password|2FACode
-# 5. Netscape cookies format
-#
-# Delete this comment and paste your credentials below:
+[
+    {
+        "key": "sb",
+        "value": "6YldanSLjFdCm4QHpBdEiCKJ",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-10-20T06:59:52.850Z",
+        "lastAccessed": "2026-10-20T06:59:52.856Z"
+    },
+    {
+        "key": "pas",
+        "value": "61580274064173%3Al606lRqT6Q",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-10-20T06:59:52.856Z",
+        "lastAccessed": "2026-10-20T06:59:52.856Z"
+    },
+    {
+        "key": "ps_l",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-10-20T06:59:52.856Z",
+        "lastAccessed": "2026-10-20T06:59:52.856Z"
+    },
+    {
+        "key": "ps_n",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-10-20T06:59:52.856Z",
+        "lastAccessed": "2026-10-20T06:59:52.856Z"
+    },
+    {
+        "key": "locale",
+        "value": "en_GB",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-10-20T06:59:52.856Z",
+        "lastAccessed": "2026-10-20T06:59:52.856Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B658x360x2",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-10-20T06:59:52.856Z",
+        "lastAccessed": "2026-10-20T06:59:52.856Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A3328%3Btimestamp%3A1792445267",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-10-20T06:59:52.856Z",
+        "lastAccessed": "2026-10-20T06:59:52.856Z"
+    },
+    {
+        "key": "dpr",
+        "value": "2",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-10-20T06:59:52.856Z",
+        "lastAccessed": "2026-10-20T06:59:52.856Z"
+    },
+    {
+        "key": "datr",
+        "value": "_gLXatWwDZUiqWw9YardoJGL",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-10-20T06:59:52.856Z",
+        "lastAccessed": "2026-10-20T06:59:52.856Z"
+    },
+    {
+        "key": "wd",
+        "value": "980x1791",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-10-20T06:59:52.856Z",
+        "lastAccessed": "2026-10-20T06:59:52.856Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61580274064173",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-10-20T06:59:52.856Z",
+        "lastAccessed": "2026-10-20T06:59:52.856Z"
+    },
+    {
+        "key": "presence",
+        "value": "C%7B%22lm3%22%3A%22g.3272891062898363%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1792479510734%2C%22v%22%3A1%7D",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-10-20T06:59:52.856Z",
+        "lastAccessed": "2026-10-20T06:59:52.856Z"
+    },
+    {
+        "key": "fr",
+        "value": "1WR66ysmvK9q00bcG.AWcJL7AKJxai0oshSK3Si1Yte4DhQGplwIRTLKBLXmeWFOgiVUQ.Bq1xFm..AAA.0.0.Bq1xFm.AWfDchXTXwb4JqO_yF9zVk8kjMs",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-10-20T06:59:52.856Z",
+        "lastAccessed": "2026-10-20T06:59:52.856Z"
+    },
+    {
+        "key": "xs",
+        "value": "48%3AB7bp65HnHOEjPg%3A2%3A1792475986%3A-1%3A-1%3A%3AAcyZZqXGZbP0jWrXgjV2P9sT-lDHpWDFa98aKmDcGg",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-10-20T06:59:52.856Z",
+        "lastAccessed": "2026-10-20T06:59:52.856Z"
+    }
+]
