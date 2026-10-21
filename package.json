@@ -5,14 +5,14 @@
   "description": "A simple Bot chat messenger using personal account. Made by NTKhang fixed by xalman",
   "main": "index.js",
   "engines": {
-    "node": "22.x",
-    "npm": ">=7.0.0"
+    "node": ">=24.",
+    "npm": ">=10.0.0"
   },
   "dependencies": {
-"mime-db": "^1.54.0"
     "axios": "^1.7.7",
     "bcrypt": "^5.0.1",
     "canvas": "^2.11.2",
+    "mime-db": "^1.54.0"
     "chalk": "^4.1.2",
     "cheerio": "^1.2.0",
     "child_process": "^1.0.2",
